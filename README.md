@@ -1,1 +1,1 @@
-# easyfactory
+# EasyFactory

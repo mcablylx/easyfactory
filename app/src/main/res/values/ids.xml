@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnNum" type="id"/>
+    <item name="btnOperate" type="id"/>
+    <item name="btnGetResult" type="id"/>
+</resources>
